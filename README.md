@@ -28,19 +28,19 @@ This Java implementation of Hangman is a command-line version with a simple inte
 ---
 
 ### 📖 How It Works
-- Gameplay:
+Gameplay:
 
 The program selects a word from a predefined list and displays underscores representing the letters.
 The player guesses one letter at a time, and the word is updated with correct guesses.
 If the player guesses a letter incorrectly, the number of remaining attempts decreases.
 The game ends when the player either guesses the word correctly or runs out of attempts.<br><br>
 
-- Features:
+Features:
 
 The player can only guess letters that haven't been guessed before.
 Incorrect guesses are shown, and the player can track how many guesses remain.<br><br>
 
-- Winning Condition:
+Winning Condition:
 
 The player wins if they successfully guess the word before running out of attempts. <br><br>
 
