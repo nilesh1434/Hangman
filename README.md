@@ -37,7 +37,7 @@ The game ends when the player either guesses the word correctly or runs out of a
 Features:
 
 The player can only guess letters that haven't been guessed before.
-Incorrect guesses are shown, and the player can track how many guesses remain.
+Incorrect guesses are shown, and the player can track how many guesses remain.<br><br>
 Winning Condition:
 
 The player wins if they successfully guess the word before running out of attempts. <br><br>
