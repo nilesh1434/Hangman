@@ -33,7 +33,7 @@ Gameplay:
 The program selects a word from a predefined list and displays underscores representing the letters.
 The player guesses one letter at a time, and the word is updated with correct guesses.
 If the player guesses a letter incorrectly, the number of remaining attempts decreases.
-The game ends when the player either guesses the word correctly or runs out of attempts.
+The game ends when the player either guesses the word correctly or runs out of attempts.<br>
 Features:
 
 The player can only guess letters that haven't been guessed before.
